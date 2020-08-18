@@ -14,6 +14,7 @@ Run following command:
 ```
 python3 project.py
 ```
+It will ask for your facebook credentials. Enter it let the magic happen.
 # HOW DOES IT WORK
 It uses SELENIUM Webdriver to create a browser object. 
 * Just enter the Facebook credentials if you enter the wrong credentials it will ask to enter it again till you enter  correct credentials.
